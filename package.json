@@ -1,0 +1,33 @@
+{
+  "name": "mr-build",
+  "version": "0.1.0",
+  "description": "a toolset to build the config files from excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleep2death/mr-build.git"
+  },
+  "keywords": [
+    "build",
+    "config",
+    "git",
+    "svn"
+  ],
+  "author": "aspirin2d@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleep2death/mr-build/issues"
+  },
+  "xo": {
+    "esnext": true,
+    "semicolon": false,
+    "space": 2
+  },
+  "homepage": "https://github.com/sleep2death/mr-build#readme",
+  "devDependencies": {
+    "xo": "^0.17.1"
+  }
+}

@@ -1,1 +1,1 @@
-a robot to build our unity3d project automatically.
+a robot for building our unity3d project automatically.
